@@ -10,4 +10,4 @@ A Codesys MQTT library
 - util.lib
 
 # Tested on
-- WAGO PLC 750-8206
+- WAGO PLC 750-8206 (PFC200)

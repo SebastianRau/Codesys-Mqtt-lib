@@ -15,3 +15,4 @@ Subscriptions are not fully implemented!
 
 # Tested on
 - WAGO PLC 750-8206 (PFC200)
+- WAGO PLC 750-841 (FW12..)
